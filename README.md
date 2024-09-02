@@ -14,6 +14,6 @@ Technologies Used
 - Python 
 - Tkinter library for GUI development
 
-Calculator.py is my file in which i performed all the programming
+calculator.py is my file in which i performed all the programming
 
-A PPT(Calculator ppt)is also attached showing the details related to the project.
+A PPT(Calculator PPT)is also attached showing the details related to the project.
